@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "emyr willis launches site"
+title: "Weekly class reflection #1"
 date: 2018-09-25
 ---
 
