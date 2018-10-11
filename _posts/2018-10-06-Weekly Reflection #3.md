@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Weekly class reflection #1"
+title: "Weekly class reflection #3"
 date: 2018-09-25
 ---
 
