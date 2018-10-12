@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Weekly class reflection #3"
