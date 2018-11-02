@@ -1,2 +1,7 @@
-:man: :gun: 
-i hate my life write now
+---
+layout: post
+title: \_EXPERIMENT\_
+date: 2018-11-2
+---
+
+kay, so this week we learned more code. That's pretty much it. we learned this thing called GT which is like a wierd way of defining functions. I don't think I will need to use it, but I have it copied down so I can use it if i need to. we also
