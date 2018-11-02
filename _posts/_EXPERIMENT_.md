@@ -1,1 +1,2 @@
-:gun: :man:
+:man: :gun: 
+i hate my life write now
