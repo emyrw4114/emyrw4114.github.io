@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018-11-02 weekly reflection #5
+title: weekly reflection #5
 date: 2018-10-20
 ---
 
