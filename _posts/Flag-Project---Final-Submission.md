@@ -8,24 +8,22 @@ date: 2018-12-21
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+-   I designed the Swedish flag.
+-   Because it is a simple flag, I expect to get a practiotioner.
 
 ## Current output
 
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![Flag](/images/final-flag.png)
+![Flag](/bop.png)
 * * *
 
 ## Describe your process.
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-<!--- Delete this comment and add your writing -->
+At first, I had to just 
 
 
 ## Explain your code.
