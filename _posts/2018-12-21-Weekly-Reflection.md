@@ -21,7 +21,7 @@ date: 2018-12-21
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-At first, I had to just 
+First, I had to create all the lines and put them all onto a blue background. that was the easy part. The hard part 
 
 
 ## Explain your code.
